@@ -10,4 +10,9 @@
         android:name="com.example.my_portfolio_with_login_signup_design.StartFragment"
         android:label="fragment_start"
         tools:layout="@layout/fragment_start" />
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.example.my_portfolio_with_login_signup_design.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" />
 </navigation>
