@@ -9,7 +9,11 @@
         android:id="@+id/startFragment"
         android:name="com.example.my_portfolio_with_login_signup_design.StartFragment"
         android:label="fragment_start"
-        tools:layout="@layout/fragment_start" />
+        tools:layout="@layout/fragment_start" >
+        <action
+            android:id="@+id/action_startFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+    </fragment>
     <fragment
         android:id="@+id/loginFragment"
         android:name="com.example.my_portfolio_with_login_signup_design.LoginFragment"
