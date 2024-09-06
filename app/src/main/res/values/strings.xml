@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">My_Portfolio_with_Login_SignUp_Design</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="welcome_to_my_app">Welcome to my app!</string>
     <string name="show_my_details_here">Show my Details here</string>
@@ -8,4 +7,11 @@
     <string name="login">Login</string>
     <string name="register">Register</string>
     <string name="intro_image">Intro Image</string>
+    <string name="login_here">Login Here</string>
+    <string name="welcome_back_you_have_been_missed">Welcome back you’ve \n been missed!</string>
+    <string name="enter_your_email_address_here">Enter your Email Address here</string>
+    <string name="enter_your_correct_password_here">Enter your Correct Password here</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="or_continue_with">Or\nContinue with</string>
+    <string name="create_new_account">Create New Account</string>
 </resources>
