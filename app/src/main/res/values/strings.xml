@@ -2,4 +2,10 @@
     <string name="app_name">My_Portfolio_with_Login_SignUp_Design</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_my_app">Welcome to my app!</string>
+    <string name="show_my_details_here">Show my Details here</string>
+    <string name="explore_all_about_me_also_my_education_etc">Explore all about me, also my education, etc.</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="intro_image">Intro Image</string>
 </resources>
