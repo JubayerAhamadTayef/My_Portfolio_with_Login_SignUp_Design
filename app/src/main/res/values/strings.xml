@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My_Portfolio_with_Login_SignUp_Design</string>
+    <string name="app_name">Jubayer_Portfolio</string>
     <string name="welcome_to_my_portfolio">Welcome to my portfolio!</string>
     <string name="show_my_details_here">Show my Details here</string>
     <string name="explore_all_about_me_also_my_education_etc">Explore all about me, also my education, etc.</string>
@@ -22,4 +22,8 @@
     <string name="assalamualaikum_i_am_jubayer_ahamad_tayef">Assalamualaikum,🫡.\n I am Jubayer Ahamad Tayef. \nI\'m a Android Developer!</string>
     <string name="my_information_details">I am using XML for designing my app and I am using Kotlin for define what action is perform when using my app. I am make app only for Android. My app performance best, because It\'s native app. You need any Native app for android? Contact me. My contact information is down contact section.</string>
     <string name="download_resume">Download Resume</string>
+    <string name="starting_page">Starting Page</string>
+    <string name="login_page">Login Page</string>
+    <string name="register_page">Register Page</string>
+    <string name="portfolio_page">Portfolio Page</string>
 </resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/startFragment"
+        android:title="@string/starting_page" />
+    <item
+        android:id="@+id/loginFragment"
+        android:title="@string/login_page" />
+    <item
+        android:id="@+id/registerFragment"
+        android:title="@string/register_page" />
+    <item
+        android:id="@+id/portfolioFragment"
+        android:title="@string/portfolio_page" />
+</menu>
