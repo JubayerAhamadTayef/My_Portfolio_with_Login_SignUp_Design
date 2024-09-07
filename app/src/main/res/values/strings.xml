@@ -14,4 +14,10 @@
     <string name="forgot_your_password">Forgot your password?</string>
     <string name="or_continue_with">Or\nContinue with</string>
     <string name="create_new_account">Create New Account</string>
+    <string name="register_here">Register Here</string>
+    <string name="create_an_account_so_you_can_explore_all_about_me">Create an account so you can explore all about me!</string>
+    <string name="enter_your_password_here">Enter your password here</string>
+    <string name="enter_your_confirm_password_here">Enter your confirm password here</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="design_by_jubayer_ahamad_tayef">Design by \n Jubayer Ahamad Tayef</string>
 </resources>
