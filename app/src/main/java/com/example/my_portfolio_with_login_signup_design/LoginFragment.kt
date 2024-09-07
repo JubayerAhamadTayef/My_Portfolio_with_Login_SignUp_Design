@@ -24,6 +24,12 @@ class LoginFragment : Fragment() {
 
         }
 
+        binding.loginButton.setOnClickListener {
+
+            findNavController().navigate(R.id.action_loginFragment_to_portfolioFragment)
+
+        }
+
         return binding.root
     }
 

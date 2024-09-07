@@ -24,6 +24,12 @@ class RegisterFragment : Fragment() {
 
         }
 
+        binding.registerButton.setOnClickListener {
+
+            findNavController().navigate(R.id.action_registerFragment_to_portfolioFragment)
+
+        }
+
         return binding.root
     }
 }
