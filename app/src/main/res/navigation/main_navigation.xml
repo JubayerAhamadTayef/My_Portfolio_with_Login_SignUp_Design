@@ -25,6 +25,9 @@
         <action
             android:id="@+id/action_loginFragment_to_registerFragment"
             app:destination="@id/registerFragment" />
+        <action
+            android:id="@+id/action_loginFragment_to_portfolioFragment"
+            app:destination="@id/portfolioFragment" />
     </fragment>
     <fragment
         android:id="@+id/registerFragment"
@@ -34,5 +37,13 @@
         <action
             android:id="@+id/action_registerFragment_to_loginFragment"
             app:destination="@id/loginFragment" />
+        <action
+            android:id="@+id/action_registerFragment_to_portfolioFragment"
+            app:destination="@id/portfolioFragment" />
     </fragment>
+    <fragment
+        android:id="@+id/portfolioFragment"
+        android:name="com.example.my_portfolio_with_login_signup_design.PortfolioFragment"
+        android:label="fragment_portfolio"
+        tools:layout="@layout/fragment_portfolio" />
 </navigation>
